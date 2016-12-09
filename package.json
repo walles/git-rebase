@@ -24,6 +24,6 @@
     "eslint-plugin-react": "^6.6.0"
   },
   "dependencies": {
-    "atom": "^1.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
