@@ -1,0 +1,29 @@
+{
+  "name": "git-rebase",
+  "main": "./lib/git-rebase",
+  "version": "0.0.0",
+  "description": "Add keyboard shortcuts for doing \"git rebase\"",
+  "keywords": [
+    "git",
+    "rebase"
+  ],
+  "activationCommands": {
+    "atom-workspace": "git-rebase:toggle"
+  },
+  "repository": "https://github.com/walles/git-rebase",
+  "bugs": "https://github.com/walles/git-rebase/issues",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.1.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.6.0"
+  },
+  "dependencies": {
+    "atom": "^1.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "atom-text-editor[data-grammar='text git-rebase']": {
+    "p": "git-rebase:pick",
+    "r": "git-rebase:reword",
+    "e": "git-rebase:edit",
+    "f": "git-rebase:fixup",
+    "s": "git-rebase:squash",
+    "d": "git-rebase:drop"
+  }
+}
