@@ -1,6 +1,6 @@
 {
   "name": "git-rebase",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add keyboard shortcuts for doing \"git rebase\"",
   "keywords": [
     "git",
