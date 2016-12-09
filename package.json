@@ -7,9 +7,9 @@
     "git",
     "rebase"
   ],
-  "activationCommands": {
-    "atom-workspace": "git-rebase:toggle"
-  },
+  "activationHooks": [
+    "language-git:grammar-used"
+  ],
   "repository": "https://github.com/walles/git-rebase",
   "bugs": "https://github.com/walles/git-rebase/issues",
   "license": "MIT",
