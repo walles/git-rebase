@@ -1,6 +1,6 @@
 # Git Rebase
 
-When doing an interactive `git rebase`rebasing, `git` tells you that you can
+When doing an interactive `git rebase`, `git` tells you that you can
 `p`ick, `r`eword, `e`dit, `s`quash, `d`rop or `f`ixup changes.
 
 With this package installed, just pressing the initial letter will switch the
